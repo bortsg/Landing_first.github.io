@@ -1,3 +1,3 @@
 # Lending_first
-Landing page with flexbox/grid, animations and iframe.
-html, css
+Учебный лендинг с применением flexbox/grid, анимаций и медиазапросов.
+*в коде присутствуют комментарии ревьюеров Я.Практикума
